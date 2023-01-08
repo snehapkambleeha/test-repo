@@ -1,0 +1,6 @@
+name: Jugaad Patches Pvt Ltd
+description: Creates custom product listing and manage.
+package: Custom
+
+type: module
+core_version_requirement: ^9.4 || ^10
